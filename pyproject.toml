@@ -1,0 +1,9 @@
+[project]
+name = "acd"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "aws-cdk-lib>=2.211.0",
+]
